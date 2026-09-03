@@ -12,16 +12,16 @@ https://public.tableau.com/views/tableauprojectsample_17831172557980/SalesDashbo
 
 ## Dashboard Preview
 
-### 📈 Sales Dashboard
+### Sales Dashboard
 
 <img width="670" height="534" alt="image" src="https://github.com/user-attachments/assets/292934c9-079c-4cfd-875b-f53ebfe99a01" />
 
-### 👥 Customer Dashboard
+### Customer Dashboard
 
 <img width="657" height="526" alt="image" src="https://github.com/user-attachments/assets/35a59c2c-1774-4a62-9f62-1980d37844f5" />
 
 
-# 📈 Sales Dashboard
+# Sales Dashboard
 
 ## Objective
 
